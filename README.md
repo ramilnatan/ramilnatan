@@ -115,6 +115,6 @@ To build meaningful AI-powered products, accessibility solutions, and automation
 
 📍 Saudi Arabia
 
-🔗 LinkedIn: Add your LinkedIn profile here
+🔗 LinkedIn: linkedin.com/in/ramil-natan-949891350
 
 📧 Contact: Available upon request
