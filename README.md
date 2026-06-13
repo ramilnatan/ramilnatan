@@ -93,7 +93,7 @@ Customer engagement and wellness-focused business platform built using AI-assist
 
 ### Engineering
 
-31+ years in Telecommunications Engineering, Switching Systems, Network Infrastructure, and Enterprise Communications.
+26+ years in Telecommunications Engineering, Switching Systems, Network Infrastructure, and Enterprise Communications.
 
 ### Education
 
