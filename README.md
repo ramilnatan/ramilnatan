@@ -2,7 +2,7 @@
 
 ## Technical Enablement Specialist | Engineering Educator | AI Builder
 
-I am a Licensed Electronics Engineer with more than 31 years of professional experience spanning telecommunications, engineering education, technical training, and technology implementation.
+I am a Licensed Electronics Engineer with more than 26 plus years of professional experience spanning telecommunications, engineering education, technical training, and technology implementation.
 
 After spending decades solving complex engineering challenges and teaching future engineers, I began exploring AI-assisted development, prompt engineering, SaaS product creation, and accessibility-focused technology solutions.
 
@@ -115,6 +115,6 @@ To build meaningful AI-powered products, accessibility solutions, and automation
 
 📍 Saudi Arabia
 
-🔗 LinkedIn: linkedin.com/in/ramil-natan-949891350
+🔗 LinkedIn: linkedin.com/in/ramil-natan
 
 📧 Contact: Available upon request
