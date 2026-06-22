@@ -1,6 +1,6 @@
 # Hi, I'm Ramil Natan 👋
 
-## Technical Enablement Specialist | Engineering Educator | AI Builder
+## Technical Enablement Specialist | Telecommunication Engineer | Engineering Educator | AI Builder 
 
 I am a Licensed Electronics Engineer with more than 26 plus years of professional experience spanning telecommunications, engineering education, technical training, and technology implementation.
 
